@@ -4,10 +4,10 @@ altair
 pandas
 streamlit
 torch
-transformers == 4.52.4 
-librosa == 0.10.0
-soundfile == 0.12.1
-huggingface_hub == 0.32.4 
-faiss-cpu==1.7.4 
-faiss-cpu==1.7.4
+transformers
+librosa
+soundfile
+huggingface_hub
+faiss-cpu
+faiss-cpu
 torchaudio
